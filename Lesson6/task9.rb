@@ -1,4 +1,4 @@
 # frozen_string_literal: true
 
-faile = Dir.glob('images/*.{jpg}')
+faile = Dir.glob('kartinka/*.{jpg}')
 puts faile.sample
